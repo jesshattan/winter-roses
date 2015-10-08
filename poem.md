@@ -1,7 +1,7 @@
     #Winter Roses
     by *By John Greenleaf Whittier*
     
-    **My garden roses long ago**
+    My garden roses long ago
     Have perished from the leaf-strewn walks;
     Their pale, fair sisters smile no more
     Upon the sweet-brier stalks.
@@ -36,7 +36,7 @@
     Are in my heart, and on my cheek
     The airs of morning blow.
 
-    **O buds of girlhood, yet unblown,**
+    O buds of girlhood, yet unblown,
     And fairer than the gift ye chose,
     For you may years like leaves unfold
     The heart of Sharon's rose
