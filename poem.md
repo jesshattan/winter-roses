@@ -1,5 +1,5 @@
 #Winter Roses
-by *By John Greenleaf Whittier*  
+*By John Greenleaf Whittier*  
 
 My garden roses long ago  
 Have perished from the leaf-strewn walks;  
